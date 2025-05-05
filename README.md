@@ -3,6 +3,9 @@
 
 A basic clone of the Flappy Bird game developed using Python and the Pygame library. The objective of the game is to navigate the bird through obstacles (pipes) without hitting them.
 
+
+![Uploading Screenshot 2025-05-05 130400.png…]()
+
 ## Features
 
 - Simple and responsive game mechanics
@@ -10,7 +13,7 @@ A basic clone of the Flappy Bird game developed using Python and the Pygame libr
 - Score tracking
 - Infinite scrolling background and pipes
 - Sound effects (optional)
-![Uploading Screenshot 2025-05-05 130400.png…]()
+
 
 ## Technologies Used
 
