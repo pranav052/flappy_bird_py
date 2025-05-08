@@ -13,7 +13,7 @@ A basic clone of the Flappy Bird game developed using Python and the Pygame libr
 - Collision detection
 - Score tracking
 - Infinite scrolling background and pipes
-- Sound effects (optional)
+
 
 
 ## Technologies Used
